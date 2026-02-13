@@ -7,5 +7,10 @@
 </head>
 <body>
     <h1>Hola a la pag de Anenqui </h1>
+
+    <div>
+        <br>Link about </br>
+        <br href="about.php">About </br>
+    </div>
 </body>
 </html>
