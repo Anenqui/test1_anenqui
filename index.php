@@ -9,8 +9,8 @@
     <h1>Hola a la pag de Anenqui </h1>
 
     <div>
-        <br>Link about </br>
-        <br href="about.php">About </br>
+        <h3>Link about </h3>
+        <a href="about.php">About </a>
     </div>
 </body>
 </html>
