@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anenqui´s Page</title>
+    <!-- <link rel="icon" href="/favicon.ico"> -->
 </head>
 <body>
     <h1>Hola a la pag de Anenqui </h1>
